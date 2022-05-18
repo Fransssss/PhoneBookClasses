@@ -1,7 +1,8 @@
 # PhoneBookClasses
 
 Goals
-Set class Person to be later be added to a larger program - PhoneBook
+- Set class Person to be later be added to a larger program - PhoneBook
+- !Code to be Update!
 
 Example Output
 
