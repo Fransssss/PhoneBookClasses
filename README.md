@@ -2,7 +2,7 @@
 
 Goals
 - Set class Person to be later be added to a larger program - PhoneBook
-- !Code to be Update!
+- !Code to be Updated!
 
 Example Output
 
